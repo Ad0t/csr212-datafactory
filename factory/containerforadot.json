@@ -1,0 +1,9 @@
+{
+	"name": "containerforadot",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2dbd6d65-3350-4ecf-991d-88ea8d97fc84",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
